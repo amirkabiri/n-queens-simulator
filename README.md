@@ -11,4 +11,4 @@ This project helps you to see the process of solving n-queens problem using the 
 3. **js/n-queens-backtracking-engine.js** : BackTracking engine to solve n-queens problem.
 4. **js/n-queens-genetic-engine.js** : Genetic Algorithm based engine to solve n-queens problem.
 # Demo
-click [here](http://amirkabiri.github.io/n-queens-simulator/) to see online demo hosted on github pages
+click [here](http://amirkabiri.github.io/n-queens-simulator/index.html) to see online demo hosted on github pages
